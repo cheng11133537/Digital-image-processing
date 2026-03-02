@@ -41,7 +41,7 @@
 
 **實作重點:**
 * **Auto Peak Detection:** 實作自動化演算法，尋找並鎖定 FFT 頻譜圖中的異常雜訊亮點。
-* **Gaussian Notch Filter:** 針對偵測到的雜訊頻率座標，設計高斯帶阻遮罩進行消除，有效避免傳統濾波器的振鈴效應 (Ringing Effect)。
+* **Gaussian Notch Filter:** 針對偵測到的雜訊頻率座標，設計高斯帶阻遮罩進行消除，有效避免傳統濾波器的 Ringing Effect。
 
 ### Lab 5: Image Restoration
 
